@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "user",
+						"type": "string"
+					}
+				],
+				"name": "teststrings",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"rareskillstest.sol": "ExampleContract"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"rareskillstest.sol": {
+			"keccak256": "0x8355f31b36b5c2d47276c67dea146c3d1dfa396b57f72d37d22f73e5f63a74fa",
+			"license": "BUSL-1.1",
+			"urls": [
+				"bzz-raw://2a8d78999c31156ba245c44358d291f21450309daf5e32b5a4fa3713226ac8e4",
+				"dweb:/ipfs/QmUHBstmvWZmcYka6QLZa1LHd4VGj5vUPCwEpq1gLTzsjm"
+			]
+		}
+	},
+	"version": 1
+}

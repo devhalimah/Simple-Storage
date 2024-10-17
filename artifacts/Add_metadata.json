@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "add",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"rareskillstest.sol": "Add"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"rareskillstest.sol": {
+			"keccak256": "0x5e7e3831523da4f9ede979d57261fbb104971e922b86c75226ab36a856e3ca62",
+			"license": "BUSL-1.1",
+			"urls": [
+				"bzz-raw://5391485774e0b20c2d61289aa2b6cf8d9f7a59ec86b258838674ea70e056f777",
+				"dweb:/ipfs/Qmc9uobE37bgXEL3dHxVih2PDtALJXyaCQUKa3sXbD8YfS"
+			]
+		}
+	},
+	"version": 1
+}
