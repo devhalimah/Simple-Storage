@@ -8,7 +8,7 @@ contract Storage{
     function get() public view returns(uint256) {
         return input;
     }
-    //The set function that takes the inputted number
+    //The set function that takes the number input
     function set(uint256 _input) public {
         input = _input;
     }
